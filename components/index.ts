@@ -1,0 +1,7 @@
+export { default as Header } from "./header/header"
+export { default as H1 } from "./h1"
+export { default as Container } from "./container"
+export { default as Paragraph } from "./paragraph"
+export { default as Button } from "./button"
+export { default as LinkButton } from "./linkButton/linkButton"
+export { default as TextContainer } from "./textContainer"
